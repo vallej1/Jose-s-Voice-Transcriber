@@ -1,0 +1,5 @@
+{
+  "name": "Jose's Voice Transcriber",
+  "description": "A powerful speech-to-text application powered by Gemini. Features real-time transcription and audio file upload with speaker labeling.",
+  "requestFramePermissions": ["microphone"]
+}
